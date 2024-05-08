@@ -1,3 +1,5 @@
+package vonglap;
+
 public class Bai2 {
     public static void main(String[] args) {
         //b2: in ra các số lẻ từ 1 đến 100

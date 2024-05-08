@@ -1,3 +1,5 @@
+package vonglap;
+
 import java.util.Scanner;
 
 public class NgayThang {

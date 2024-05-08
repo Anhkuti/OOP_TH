@@ -1,3 +1,5 @@
+package vonglap;
+
 public class Bai3 {
     public static void main(String[] args) {
         //in ra các số chẵn từ 1 đến 100

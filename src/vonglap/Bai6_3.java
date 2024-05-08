@@ -1,3 +1,5 @@
+package vonglap;
+
 public class Bai6_3 {
     public static void main(String[] args) {
         //vòng lặp while bài 3

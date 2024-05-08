@@ -1,3 +1,5 @@
+package vonglap;
+
 public class Bai4 {
     public static void main(String[] args) {
         //in ra các số 4,8,12,16,20

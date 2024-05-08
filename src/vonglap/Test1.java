@@ -1,3 +1,5 @@
+package vonglap;
+
 public class Test1 {
     public static void main(String[] args) {
         double[] numbers = {3.5, 8.9, 1.6, -4.8};

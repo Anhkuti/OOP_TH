@@ -1,3 +1,5 @@
+package vonglap;
+
 public class Bai5 {
     public static void main(String[] args) {
         //in ra các số từ 1 đến 100 trừ các số: 5,7,19,45,67
